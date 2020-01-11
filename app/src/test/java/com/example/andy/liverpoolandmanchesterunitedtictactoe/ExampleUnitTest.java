@@ -1,15 +1,15 @@
-package com.something.andy.liverpoolandmanchesterunitedtictactoe;
+package com.liv.andy.liverpoolandmanchesterunitedtictactoe;
 
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 /**
- * something local unit test, which will execute on the development machine (host).
+ * liv local unit test, which will execute on the development machine (host).
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-public class somethingUnitTest {
+public class livUnitTest {
     @Test
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
